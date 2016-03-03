@@ -1,7 +1,7 @@
 .. _http-api:
 
-Overview
-========
+Public API
+==========
 
 The ZapGo server exposes an HTTP API that can be used to manage users and transactions.
 
@@ -31,7 +31,7 @@ The format of the JSON document is the following:
 
 Description of the payload:
 
-- ``tx_type``: transaction type:
+- ``tx_type``: transaction type::
 
     ====================  ==============
     ``send_interwallet``  Send funds to another user.
