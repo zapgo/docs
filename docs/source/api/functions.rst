@@ -3,7 +3,7 @@
 Overview
 ========
 
-The Openchain server exposes an HTTP API that can be used to manage users and transactions.
+The ZapGo server exposes an HTTP API that can be used to manage users and transactions.
 
 Create a transaction (``/transactions``)
 ----------------------------------------
@@ -31,9 +31,10 @@ The format of the JSON document is the following:
 
 Description of the payload:
 
-- ``tx_type``: transaction type, i.e. one of the following:
+- ``tx_type``: transaction type:
+
     ====================  ==============
-    ``send_interwallet``  Send funds to another user.    
+    ``send_interwallet``  Send funds to another user.
     ``send_bitcoin``      Send bitcoin to an bitcoin address.
     ====================  ==============
 

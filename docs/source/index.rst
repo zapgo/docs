@@ -7,7 +7,7 @@ Overview
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    general/overview.rst
    
@@ -16,6 +16,6 @@ Public API
 ----------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    api/functions.rst
