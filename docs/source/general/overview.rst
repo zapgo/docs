@@ -4,7 +4,7 @@ Overview of the ZapGo Platform
 What is ZapGo?
 --------------
 
-ZapGo is a platform for developing and managing FinTech Apps or financial services. We you manage users and back-end transactional data, while you focus on your core business.
+ZapGo is a platform for developing and managing FinTech Apps or financial services. We provide the technical backend for managing users and transactional data, while you focus on your core business.
 
 Road Map
 --------
@@ -16,8 +16,7 @@ Transactions are created via a REST API.
 
 All transaction logic, accounting and validations are done by the ZapGo server.
 
-Benefits
-********
+**Benefits**
 -   **Open Innovation**::
 
     Open API for anyone to innovate and rapidly deploy, launch and manage FinTech Apps.
@@ -34,9 +33,9 @@ Integrate Openchain, Open Assets, Ethereum, Stellar, Ripple.
 
 Clients Issue tokens on blockchain independent from the ZapGo platform. ZapGo provides the administration panel for managing funds, loading user accounts, managing user information, permissions and transactions.
 
-Benefits
-********
+**Benefits**
 -   **Open Innovation**
+
 -   **Interoperability**::
 
     A blockchain provides a common protocol and common source of truth for all the systems built on top of it. Merchants, third-party exchanges and tokens issued by other financial institutions are immediately interoperable.

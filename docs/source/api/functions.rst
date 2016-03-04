@@ -31,7 +31,7 @@ The format of the JSON document is the following:
 
 Description of the payload:
 
-- ``tx_type``: transaction type::
+- ``tx_type``: transaction type
 
     ====================  ==============
     ``send_interwallet``  Send funds to another user.
