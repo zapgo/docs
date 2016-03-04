@@ -37,9 +37,11 @@ Clients Issue tokens on blockchain independent from the ZapGo platform. ZapGo pr
 **Benefits**
 
 - **Open Innovation**
+
 - **Interoperability**:
 
   A blockchain provides a common protocol and common source of truth for all the systems built on top of it. Merchants, third-party exchanges and other financial institutions are immediately interoperable.
+
 - **Transparency**:
 
   The blockchain is maintained by multiple trusted parties (federated/ private blockchain) or a decentralised network of participants who are incentivized to maintain the integrity of the network (proof of work/ public blockchain).
