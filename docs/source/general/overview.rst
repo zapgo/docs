@@ -23,9 +23,9 @@ All transaction logic, accounting and validations are done by the ZapGo server.
   Open API for anyone to innovate and rapidly deploy, launch and manage FinTech Apps.
 
   Examples:
-   * `Blink <www.paywithblink.com>`_ - Retail payments with cryptocurrency in South Africa
-   * `Air <www.airbacked.com>`_ - Global Mobile Money system
-   * `ZapGo <www.zapgo.co>`_ - Peer to peer and bitcoin payments app in South Africa
+   * `Blink <http://www.paywithblink.com>`_ - Retail payments with cryptocurrency in South Africa
+   * `Air <http://www.airbacked.com>`_ - Global Mobile Money system
+   * `ZapGo <https://www.zapgo.co>`_ - Peer to peer and bitcoin payments app in South Africa
 
 Version 2
 ~~~~~~~~~
