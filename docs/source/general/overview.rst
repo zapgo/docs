@@ -30,7 +30,7 @@ All transaction logic, accounting and validations are done by the ZapGo server.
 Version 2
 ~~~~~~~~~
 Transactions are stored on public or private blockchains.
-We provide development and management tools for Openchain, Open Assets, Ethereum, Stellar, Ripple.
+We provide development and management tools for Openchain, Open Assets, Sidechains, Ethereum, Stellar, Ripple.
 
 Clients Issue tokens on blockchain independent from the ZapGo platform. ZapGo provides the administration panel for managing funds, loading user accounts, managing user information, permissions and transactions.
 
@@ -48,5 +48,17 @@ Clients Issue tokens on blockchain independent from the ZapGo platform. ZapGo pr
 
 Version 3
 ~~~~~~~~~
-ZapGo provides open source libraries for creating and compiling transactions client side.
+ZapGo provides open source libraries for constructing transactions client side. This means funds are kept on user devices and transactions are verified on a public or private blockchain. ZapGo manages the backup and recovery procedures for when user devices get lost (via HD wallet backup and/ or NLockTime recovery to a ZapGo controlled wallet). Management of funds is still done via the ZapGo administration dashboard which support multisignature permissions and hardware wallet key management for administration functions.
+
+**Benefits**
+
+- **Open Innovation**
+
+- **Interoperability**
+
+- **Transparency**
+
+- **Immutability**
+
+  ZapGo facilitates the management and record keeping of funds as well as recovery and risk management procedures, but does not have the ability to alter user balances or override administrator actions. Compared to current financial services platforms, this model is robust, secure and scalable
 
