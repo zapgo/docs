@@ -48,7 +48,7 @@ Clients Issue tokens on blockchain independent from the ZapGo platform. ZapGo pr
 
 Version 3
 ~~~~~~~~~
-ZapGo provides open source libraries for constructing transactions client side. This means funds are kept on user devices and transactions are verified on a public or private blockchain. ZapGo manages the backup and recovery procedures for when user devices get lost (via HD wallet backup and/ or NLockTime recovery to a ZapGo controlled wallet). Management of funds is still done via the ZapGo administration dashboard which support multisignature permissions and hardware wallet key management for administration functions.
+ZapGo provides open source libraries for constructing transactions client side. This means funds are kept on user devices and transactions are verified on a public or private blockchain. ZapGo manages the backup and recovery procedures for when user devices get lost (via HD wallet backup and/ or NLockTime recovery to a ZapGo controlled wallet). Management of funds is still done via the ZapGo administration dashboard which support multisignature permissions and hardware wallet key management for administrative functions.
 
 **Benefits**
 
